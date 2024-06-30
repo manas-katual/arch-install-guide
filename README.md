@@ -279,7 +279,7 @@ Now finally installing arch
 pacstrap -K /mnt base linux linux-firmware
 ```
 
-> [!TIP] Pro Tip
+> [!TIP]
 > before running pacstrap for faster download enable parallel downloads
 
 ```bash
